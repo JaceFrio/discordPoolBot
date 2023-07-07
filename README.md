@@ -7,7 +7,7 @@ The bot has 2 commands:
 - /pirate: Starts a game of pirate.
 
 # How It Works:
-When the command /pirate is started players have 30 seconds to react with the 👍 emoji to join the game session (the first emoji provided by the bot for convenience). Once all of the players have joined the bot randomly selects an equal amount balls for the players depending on how many joined. Images of the player's pool balls are then sent as a direct message to player and then the game can start in person.
+When the command /pirate is started players have 30 seconds to react with the 👍 emoji to join the game session (the first emoji provided by the bot for convenience). Once all of the players have joined the bot randomly selects an equal amount balls for the players depending on how many joined. Images of the player's pool balls are then sent as a direct message to the players and then the game can start in person.
 
 # What Is Pirate?
 This game goes by many names but me and my friends call it Pirate.
