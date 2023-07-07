@@ -13,5 +13,5 @@ When the command /pirate is started players have 30 seconds to react with the ðŸ
 This game goes by many names but me and my friends call it Pirate.
 Pirate is a game where an equal amount of balls are distributed to players at random (commonly drawn from ripped up pieces of paper in some guy's hat). The goal of the game is knock out everyone else's balls and have the last balls standing on the table. You don't want people knowing which balls are you own.
 
-#APIs
-- discord.js - [https://discord.js.org/#/docs/discord.js/stable/class/Collector?scrollTo=handleCollect](https://discord.js.org/)https://discord.js.org/
+# APIs
+- discord.js - https://discord.js.org/
